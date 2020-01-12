@@ -1,3 +1,10 @@
+brainparty-data (1:0.5.91-1) fremantle; urgency=low
+
+  * Initial Maemo Leste import, with epoch, because Debian version is higher
+    but not compatible
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sun, 12 Jan 2020 12:48:13 +0100
+
 brainparty-data (0.5.91-1) fremantle; urgency=low
 
   * Distribute the OGG music files from the upstream tarball
