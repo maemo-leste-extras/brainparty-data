@@ -1,0 +1,50 @@
+This is brainparty-data, packaged for Fremantle by Thomas Perl
+<thp@thpinfo.com> on Sat,  3 Apr 2010 18:04:59 +0200.
+
+Copyright Holders:
+
+  Art
+  ===
+    Paul Hudson
+    Scott Ewart
+
+  Music
+  =====
+    electricity.ogg - "Electricity" by Alexander Blu; CC-BY-SA 3.0.
+    morningwave.ogg - "RedQuadro - Morning Wave" by Tunguska Electronic Music Society; CC-BY-ND 3.0.
+    highway.ogg - "Max Loginov - Highway" by Tunguska Electronic Music Society; CC-BY-ND 3.0.
+    nevertoolate.ogg - "J-Sun Never Too Late" by Tunguska Electronic Music Society; CC-BY-ND 3.0.
+    chekolake.ogg - "Al. Galizdra - Cheko Lake" by Tunguska Electronic Music Society; CC-BY-ND 3.0. 
+    starmarch.ogg - "Newalks - StarMarch" by Tunguska Electronic Music Society; CC-BY-ND 3.0.
+
+  Music from Soundsnap
+  ====================
+    ambient.ogg
+    brainrace.ogg
+    lively.ogg
+    professor.ogg
+    results.ogg
+    theme.ogg
+
+    Soundsnap's licence allows all use, commercial and non-commercial, as long as you
+    do not "Resell or distribute the sounds 'as they are'. For example, you cannot download
+    and sell them as part of a CD library."
+
+License:
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this package; if not, write to the Free Software
+  Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL'.

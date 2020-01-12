@@ -1,0 +1,15 @@
+Source: brainparty-data
+Section: games
+Priority: extra
+Maintainer: Thomas Perl <thp@thpinfo.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: brainparty-data
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Images, sounds and music for Brain Party
+ This is the data package that provides artwork for
+ the "Brain Party" game. You will probably want to
+ install the "brainparty" package to get the game.
+

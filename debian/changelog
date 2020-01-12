@@ -1,0 +1,11 @@
+brainparty-data (0.5.91-1) fremantle; urgency=low
+
+  * Distribute the OGG music files from the upstream tarball
+
+ -- Thomas Perl <thp@thpinfo.com>  Wed, 21 Apr 2010 19:43:31 +0200
+
+brainparty-data (0.5-1) fremantle; urgency=low
+
+  * Initial Release.
+
+ -- Thomas Perl <thp@thpinfo.com>  Sat,  3 Apr 2010 18:04:59 +0200
